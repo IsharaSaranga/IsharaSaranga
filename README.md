@@ -1,4 +1,4 @@
-## Hi there 👋 i am kaduwela chooti
+## Hi there 👋
 
 
 <!--
