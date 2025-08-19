@@ -2,7 +2,6 @@
 
 🚀 Passionate developer and tech enthusiast. I enjoy building apps, solving problems, and learning new technologies every day.  
 
----
 
 ## 🔥 About Me  
 - 🎓 Data Science and Software Development enthusiast  
@@ -16,7 +15,6 @@
 - **Train management system**
 - **Bus management system** 
 
----
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java, Python, JavaScript, C  
@@ -25,7 +23,6 @@
 - **Mobile:** Kotlin, Android Studio, Room Database, SQLite  
 - **Tools:** Git, GitHub, VS Code, Postman, Figma, Android Studio  
 
----
 
 ## 📂 Highlight Projects  
 - 📱 **Wallet Mate** – Personal Finance Tracker App with **SQLite + Room Database** (Kotlin, Android Studio)  
@@ -34,7 +31,6 @@
 - 🌐 **MERN Auth System** – Registration & login system with React frontend and Node.js backend  
 - 🚆 **Train Details Viewer** – JSP + JSTL project for displaying train schedules  
 
----
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
