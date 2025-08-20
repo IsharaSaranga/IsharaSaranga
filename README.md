@@ -35,10 +35,6 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)
-![License](https://img.shields.io/github/license/USERNAME/REPO)
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
