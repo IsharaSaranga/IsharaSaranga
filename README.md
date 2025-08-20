@@ -8,7 +8,7 @@
 - 💻 Currently working on: **MERN stack projects & Machin learning projects**  
 - 🌱 Learning: **React, Node.js, MongoDB, python, kotlin and advanced Android development**  
 - 🤝 Open to collaborate on: **Full-stack web apps, Android apps, and python projects**  
-- 📫 How to reach me: [isharagunathung@gmail.com / linkedin.com/in/isharagunathunga]
+- 📫 How to reach me: [isharagunathung@gmail.com /  linkedin.com/in/isharagunathunga ]
 -  
 - ⚡ Fun fact: I’ve built
 - **personal finance tracker mobile apps**
@@ -41,11 +41,11 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YourLinkedInURL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/isharagunathunga)  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](YourPortfolioURL)  
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YourEmail@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](isharagunathung@gmail.com)  
 
 ---
 ✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
