@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ishara Saranga Gunathunga
 
+
+
 🚀 Passionate developer and tech enthusiast. I enjoy building apps, solving problems, and learning new technologies every day.  
 
 
@@ -39,7 +41,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
----
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/isharagunathunga)  
