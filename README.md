@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Ishara Saranga Gunathunga
 
-
-
 🚀 Passionate developer and tech enthusiast. I enjoy building apps, solving problems, and learning new technologies every day.  
-
 
 ## 🔥 About Me  
 - 🎓 Data Science and Software Development enthusiast  
