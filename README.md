@@ -3,6 +3,7 @@
 🚀 Passionate developer and tech enthusiast. I enjoy building apps, solving problems, and learning new technologies every day.  
 
 ## 🔥 About Me  
+
 - 🎓 Data Science and Software Development enthusiast  
 - 💻 Currently working on: **MERN stack projects & Machin learning projects**  
 - 🌱 Learning: **React, Node.js, MongoDB, python, kotlin and advanced Android development**  
@@ -10,6 +11,7 @@
 - 📫 How to reach me: [isharagunathung@gmail.com /  linkedin.com/in/isharagunathunga ]
 -  
 - ⚡ Fun fact: I’ve built
+- 
 - **personal finance tracker mobile apps**
 - **Pet care management system**
 - **Train management system**
