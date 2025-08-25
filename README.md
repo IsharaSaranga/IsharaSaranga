@@ -54,10 +54,17 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isharasaranga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=isharasaranga&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isharasaranga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Man0dya/Man0dya/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Man0dya/Man0dya/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
