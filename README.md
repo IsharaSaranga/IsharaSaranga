@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ishara S Gunathunga</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=220&section=header&text=Hi%20👋,%20I'm%20Ishara%20S%20Gunathunga&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
 <h3 align="center">Passionate Mobile & Web Developer</h3>
 
 ---
@@ -60,11 +63,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Man0dya/Man0dya/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Man0dya/Man0dya/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
