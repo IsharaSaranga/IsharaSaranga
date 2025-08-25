@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isharasaranga" alt="isharasaranga" /></a> </p>
 
+- 👨‍💻 **Love to build full‑stack and mobile applications.**
+
 - 🌱 I’m currently learning **Machine Learning, AI and Cloud Computing.**
+
+- 🎓 **Undergraduate at SLIIT.**
 
 - 📫 How to reach me **isharagunathung@gmail.com**
 
