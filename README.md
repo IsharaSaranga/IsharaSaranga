@@ -64,3 +64,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=120&section=footer"/>
+</p>
