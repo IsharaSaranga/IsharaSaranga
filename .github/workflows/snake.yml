@@ -22,8 +22,8 @@ jobs:
           github_user_name: isharasaranga
           # Snake grows instead of staying constant
           outputs: |
-            dist/snake-growing.svg?animation=snake&snake=20:0:200
-            dist/snake-growing-dark.svg?palette=github-dark&animation=snake&snake=20:0:200
+            dist/snake-growing.svg?animation=snake&snake=20:1:200
+            dist/snake-growing-dark.svg?palette=github-dark&animation=snake&snake=20:1:200
 
       # ✅ Push snake to output branch
       - name: Push snake to the output branch
