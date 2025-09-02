@@ -1,30 +1,31 @@
-name: Generate snake
+name: Generate Snake
 
 on:
-  # Run once a day (UTC). You can change the time.
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual runs
-  workflow_dispatch:
-  # Rebuild on README changes, etc.
+    - cron: "0 0 * * *"   # Runs once a day
+  workflow_dispatch:       # Manual trigger
   push:
     branches: ["main"]
+
+permissions:
+  contents: write   # Needed to push snake SVG to "output" branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Generate the snake files
+      # ✅ Generate the snake (with growth effect)
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: isharasaranga
+          # Snake grows instead of staying constant
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-growing.svg?animation=snake&snake=20:0:200
+            dist/snake-growing-dark.svg?palette=github-dark&animation=snake&snake=20:0:200
 
-      # 2) Publish them to the `output` branch
+      # ✅ Push snake to output branch
       - name: Push snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
