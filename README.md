@@ -48,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<!-- Light & dark mode friendly -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isharasaranga/isharasaranga/output/snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/isharasaranga/isharasaranga/output/snake.svg" />
