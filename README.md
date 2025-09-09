@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=220&section=header&text=Hi%20👋,%20I'm%20Ishara%20S%20Gunathunga&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=220&section=header&text=%20Ishara%20S%20Gunathunga&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&font=Pacifico"/>
 </p>
 
 <h3 align="center">Passionate Mobile & Web Developer</h3>
