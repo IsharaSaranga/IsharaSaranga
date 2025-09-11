@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=220&section=header&text=%20Ishara%20S%20Gunathunga&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&font=Pacifico"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F29,100:1E3A8A&height=220&section=header&text=%20Ishara%20S%20Gunathunga&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&font=Pacifico"/>
 </p>
 
-<h3 align="center">Passionate Mobile & Web Developer</h3>
+<h3 align="center" style="color:#1E3A8A;">Passionate Mobile & Web Developer</h3>
 
 ---
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isharasaranga&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isharasaranga&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
-
 
 ---
 
@@ -39,20 +37,21 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isharasaranga&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharasaranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isharasaranga&show_icons=true&locale=en&theme=blue_navy&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharasaranga&layout=compact&theme=blue_navy&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharasaranga&theme=blue_navy&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isharasaranga/isharasaranga/output/snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/isharasaranga/isharasaranga/output/snake.svg" />
 </picture>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3B3B3,100:F2F2F2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F29,100:1E3A8A&height=120&section=footer"/>
 </p>
