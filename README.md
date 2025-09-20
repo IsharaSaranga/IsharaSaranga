@@ -52,6 +52,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/isharasaranga/isharasaranga/output/snake.svg" />
 </picture>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F29,100:1E3A8A&height=120&section=footer"/>
 </p>
